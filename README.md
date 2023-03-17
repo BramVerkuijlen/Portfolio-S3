@@ -7,5 +7,5 @@
 - [Individual Project](https://github.com/Phantom-works/GameAdviser)
 - [Group Project](https://github.com/Null-Not-Found)
 
-# Credits
+# Special credits
 - [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3)
