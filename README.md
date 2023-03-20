@@ -4,7 +4,7 @@
 *by Bram Verkuijlen
 
 # Projects
-- [Individual Project](https://github.com/Phantom-works/GameAdviser)
+- [Individual Project](https://github.com/Phantom-works)
 - [Group Project](https://github.com/Null-Not-Found)
 
 # Special credits
