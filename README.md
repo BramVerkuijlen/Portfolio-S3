@@ -1,7 +1,7 @@
 # Portfolio
 ***
 
-*by Bram Verkuijlen
+*by Bram Verkuijlen*
 
 # Projects
 - [Individual Project](https://github.com/Phantom-works)
