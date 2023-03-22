@@ -1,22 +1,23 @@
 # Portfolio
 ***
 *by Bram Verkuijlen*
-# Intro
+
+## Intro
 ***
 
 
-# Projects
+## Projects
 ***
 - [Individual Project](https://github.com/Phantom-works)
 - [Group Project](https://github.com/Null-Not-Found)
 
-# Research documents
+## Research documents
 ***
 
-# Proof of Learning Outcomes
+## Proof of Learning Outcomes
 ***
 
-# Special credits
+## Special credits
 ***
 - [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3)
 
