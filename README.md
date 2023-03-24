@@ -13,6 +13,7 @@
 
 ## Research documents
 ***
+- [Why Vue](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Why%20Vue.md)
 
 ## Proof of Learning Outcomes
 ***
