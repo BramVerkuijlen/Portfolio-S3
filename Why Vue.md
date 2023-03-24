@@ -1,7 +1,7 @@
 # Why Vue
 ***
 
-When Looking for a good front-end framework to use for my application I immediately stumbled upon the three biggest Frameworks, namely Vue, Angular and React. And whilest I could have also chosen Angular or react for my project I endend up using Vue for a couple of reasons.
+When Looking for a good front-end framework to use for my application I immediately stumbled upon the three biggest Frameworks, namely Vue, Angular and React. And whilst I could have also chosen Angular or react for my project I endend up using Vue for a couple of reasons.
 
 **Firstly**, Vue.js has a relatively simple syntax that is easy to learn and understand. As a newcomer to web development, this is especially appealing as it minimizes the amount of time spent learning complex concepts and syntax.
 
