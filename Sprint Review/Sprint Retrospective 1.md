@@ -1,3 +1,6 @@
+# Retrospective 1
+***
+
 I: can you do a retrospective with me
 
 ChatGPT: Of course! Let's start with a quick recap of the project and the sprint that you completed. Can you give me a brief overview of the project and the sprint you completed?
