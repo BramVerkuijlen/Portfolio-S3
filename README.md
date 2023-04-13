@@ -16,7 +16,8 @@
 
 ## Research documents
 ***
-- [Why Vue](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Why%20Vue.md)
+- [Why Vue](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Why%20Vue.md)
+- [Game API](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Game%20API.md)
 
 ## Proof of Learning Outcomes
 ***
