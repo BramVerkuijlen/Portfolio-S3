@@ -1,7 +1,7 @@
 
 # Game API
+*From Console to Code: A Research Analysis of Top Game APIs"*
 
-***
 
 ## Reasons for Using an Existing Game Data API
 ***
@@ -54,6 +54,11 @@ Lastly, I found that the pricing plans for IGDB were more reasonable and flexibl
 
 Overall, while both RAWG and IGDB are great options for accessing game-related data, IGDB's superior data quality, API functionality, and pricing plans made it the better choice for my project.
 
+## Conclusion
+***
+While the Steam API was my initial choice, it did not provide the detailed game data I required. This led me to consider alternative options, such as RAWG and IGDB, both of which are game data APIs that offer extensive game-related information.
 
+After weighing the differences between RAWG and IGDB, I ultimately chose the IGDB API for my project. Its superior data quality, more advanced search capabilities, and flexible pricing plans made it the better option for my needs. Additionally, the Steam API provided me with access to user data, which was crucial for personalizing the gaming experience.
 
+Overall, the IGDB API and the Steam API are excellent choices for any game-related project due to their comprehensive data coverage and powerful functionality.
 
