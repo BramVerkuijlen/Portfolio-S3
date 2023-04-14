@@ -64,7 +64,7 @@ Overall, the IGDB API and the Steam API are excellent choices for any game-relat
 
 ## *Sources*
 
-[Steam](https://steamcommunity.com/dev)
-[IGDB](https://www.igdb.com/)
-[RAWG](https://rawg.io/)
++ [Steam](https://steamcommunity.com/dev) 
++ [IGDB](https://www.igdb.com/)
++ [RAWG](https://rawg.io/)
 
