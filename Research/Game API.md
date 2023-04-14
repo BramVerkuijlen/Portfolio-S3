@@ -62,3 +62,9 @@ After weighing the differences between RAWG and IGDB, I ultimately chose the IGD
 
 Overall, the IGDB API and the Steam API are excellent choices for any game-related project due to their comprehensive data coverage and powerful functionality.
 
+## *Sources*
+
+[Steam](https://steamcommunity.com/dev)
+[IGDB](https://www.igdb.com/)
+[RAWG](https://rawg.io/)
+
