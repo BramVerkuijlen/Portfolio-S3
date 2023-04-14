@@ -35,6 +35,6 @@ In conclusion, an API Gateway plays a critical role in modern application archit
 
 ## Sources
 
-[Kong](https://konghq.com/products/kong-gateway)
-[Kong Plugins](https://docs.konghq.com/hub/)
-[Tyk](https://tyk.io/docs/apim/open-source/)
++ [Kong](https://konghq.com/products/kong-gateway)
++ [Kong Plugins](https://docs.konghq.com/hub/)
++ [Tyk](https://tyk.io/docs/apim/open-source/)
