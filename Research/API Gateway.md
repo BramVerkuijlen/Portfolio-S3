@@ -2,6 +2,9 @@
 
 As applications become more complex and distributed, it becomes increasingly challenging to manage and secure APIs. This is where API Gateways come into play. An API Gateway is a central component of modern application architecture that serves as a single point of entry for all incoming requests to an application's microservices.
 
+![API gateway structure](https://miro.medium.com/v2/resize:fit:870/1*gW4JrHTr86HnTrouQYLgJQ.png) <br />
+*API gateway patern - Medium* 
+
 ## Advantages of using an API Gateway
 
 An API Gateway offers several benefits to an application's architecture, such as:
@@ -35,6 +38,12 @@ In conclusion, an API Gateway plays a critical role in modern application archit
 
 ## Sources
 
+### what is an API gateway
++ [What is an API gateway - NginX](https://www.nginx.com/learn/api-gateway/)
++ [What is an API gateway? - IBM Technology](https://www.youtube.com/watch?v=hWRRdICvMNs&list=PLDv-vesFGmda4KGXoMklaMBO0xEcX-nEr&index=16)
+
+## popular gateways
++ [14 Open Source and Managed API Gateway for Modern Applications - GeekFlare](https://geekflare.com/api-gateway/)
 + [Kong](https://konghq.com/products/kong-gateway)
 + [Kong Plugins](https://docs.konghq.com/hub/)
 + [Tyk](https://tyk.io/docs/apim/open-source/)
