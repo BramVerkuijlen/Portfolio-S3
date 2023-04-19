@@ -1,4 +1,4 @@
-# API Gateway
+# What is an API Gateway
 
 As applications become more complex and distributed, managing and securing APIs become increasingly challenging. API Gateways offer a solution to this problem. By routing requests to the appropriate microservices or APIs, an API Gateway provides a centralized entry point for clients to access multiple services.
 
