@@ -1,20 +1,28 @@
-# Popular API Gateways
+# Why Kong
 
-There are several API Gateway solutions available in the market, each with its own set of features and benefits. Some of the most popular API Gateways are:
+## Existing API gateway
+***
+The reason I use an existing API Gateway for my project is because it has several advantages over building one from scratch. Firstly, it saves me time and resources as building an API Gateway requires significant development effort. Additionally, an established API Gateway is more likely to have a robust and secure feature set, including authentication, authorization, and traffic management, which are crucial for my project's success. Moreover, an existing API Gateway has a larger user base, providing a more extensive community for support, updates, and maintenance, which is beneficial in case of any issues or bugs. Finally, an existing API Gateway is more likely to have integrations with other tools and technologies, such as analytics platforms and monitoring solutions, making it easier to set up a complete API infrastructure.
 
-- **AWS API Gateway:** AWS API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+## Popular API gateways
+***
+There are several options available in the market, each with its unique set of features and advantages. One popular choice is the Kong API Gateway, an open-source solution that provides developers with a plugin architecture to extend its functionality easily. Another widely-used option is the Amazon API Gateway, which is a fully-managed solution that integrates seamlessly with other AWS services. Additionally, there are several other notable API Gateways, such as the Tyk API Gateway, which is built to provide a wide range of tools for API management, high-performance, and scalability.
 
-- **Kong:** Kong is an open-source API Gateway that is used by many large organizations to manage their APIs.
+For my project, I decided to look further into the Kong and Tyk API Gateways. As I was interested in Kong's customization and Tyk's analytics features.
 
-- **Apigee:** Apigee is a cloud-based API management platform that provides tools for managing and securing APIs.
+## Kong VS Tyk
+***
 
-- **Tyk:** Tyk is an open-source API Gateway that is designed for microservices architecture.
+Kong is a highly customizable API Gateway that provides developers with a plugin architecture to extend its functionality easily. Its plugin architecture allows for flexibility, making it an excellent choice for projects that require specific features. Kong's plugins include authentication, rate-limiting, transformations, and more. Additionally, Kong has a lightweight design that makes it efficient and scalable, making it suitable for microservices architectures.
 
-- **Azure API Management:** Azure API Management is a fully managed service that makes it easy to create, publish, and manage APIs. It also provides tools for monitoring and securing APIs.
+On the other hand, Tyk API Gateway offers a comprehensive set of features out-of-the-box, including access control, rate limiting, and analytics. Tyk's focus on high-performance and scalability makes it a solid choice for microservices architectures. Furthermore, Tyk provides a developer portal with extensive documentation, making it easier for developers to understand and use the API.
 
-In conclusion, an API Gateway plays a critical role in modern application architecture by simplifying the architecture, improving security, scalability, and performance, and providing centralized logging and monitoring. Developers can choose from several popular API Gateway solutions based on their specific needs and requirements.
+## Why Kong
 
-## Source
+After conducting an analysis of the Kong and Tyk API Gateways, I have decided to go with Kong for my project. While both of them have their unique features and advantages, what stood out to me about Kong was its plugin architecture and high level of customization. I am interested in the flexibility that comes with being able to extend Kong's functionality with plugins to add specific features as needed. Additionally, Kong's open-source nature provides a cost-effective solution for my project, which is important for a student like me who has limited resources. Overall, I believe that the Kong API Gateway will enable me to develop a robust and flexible API management solution for my project.
+
+## Sources
+***
 + [14 Open Source and Managed API Gateway for Modern Applications - GeekFlare](https://geekflare.com/api-gateway/)
 + [Kong](https://konghq.com/products/kong-gateway)
 + [Kong Plugins](https://docs.konghq.com/hub/)
