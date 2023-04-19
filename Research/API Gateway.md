@@ -1,4 +1,5 @@
 # What is an API Gateway
+***
 
 As applications become more complex and distributed, managing and securing APIs become increasingly challenging. API Gateways offer a solution to this problem. By routing requests to the appropriate microservices or APIs, an API Gateway provides a centralized entry point for clients to access multiple services.
 
@@ -6,6 +7,7 @@ As applications become more complex and distributed, managing and securing APIs 
 *API gateway patern - Medium* 
 
 ## Advantages of using an API Gateway
+***
 
 An API Gateway offers several benefits to an application's architecture, such as:
 
@@ -22,7 +24,6 @@ An API Gateway offers several benefits to an application's architecture, such as
 Overall, API Gateways simplify the architecture, improve security, scalability, and performance, and provide centralized monitoring and logging. These benefits make API Gateways an essential component of modern application architectures.
 
 ## Sources
-
-### what is an API gateway
+***
 + [What is an API gateway - NginX](https://www.nginx.com/learn/api-gateway/)
 + [What is an API gateway? - IBM Technology](https://www.youtube.com/watch?v=hWRRdICvMNs&list=PLDv-vesFGmda4KGXoMklaMBO0xEcX-nEr&index=16)
