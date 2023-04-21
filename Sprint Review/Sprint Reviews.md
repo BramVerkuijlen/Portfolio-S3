@@ -19,3 +19,16 @@ Unfortunately, this change resulted in not being able to complete all of the pla
 The change in approach also meant that I will need to refine other user stories that relied on specific categories. Therefore, the next sprint will focus on conducting research and refining the user stories to better accommodate this change.
 
 Overall, I learned valuable lessons about flexibility and adaptability in the development process, and I will continue to refine my planning process to better accommodate future changes.
+
+## Sprint 3
+***
+
+During my third sprint, I primarily focused on research for my project. I researched various options for APIs to retrieve game data, taking into account factors such as performance, reliability, and ease of use. I also researched what an API Gateway is and what it does, as well as different types of API Gateways that are available. I looked into existing API Gateways to gain a better understanding of their functionality and how they could potentially benefit our project.
+
+In addition to my research, I also built a Kong API Gateway with basic functionality. Currently, the gateway has only one example endpoint, but this provides a starting point for us to build upon in future sprints. I plan to continue refining the gateway as our project progresses.
+
+Finally, I was able to complete the Game Overview task that I was unable to finish during the previous sprint. That involved a Game Overview component for the adviced games.
+
+This sprint was productive, and I did not experience any setbacks. However, I realized that I need to work on writing out my tasks better to optimize my productivity in future sprints. This includes setting more specific goals for each task and breaking them down into smaller, manageable subtasks.
+
+Overall, I'm satisfied with the progress made during this sprint and feel confident that I am on track to deliver a high-quality project. I'm looking forward to continuing my work and refining my project in the next sprint.
