@@ -23,6 +23,18 @@
 
 ## Proof of Learning Outcomes
 ***
+## Proof of Learning Outcomes
+[Click here]() for an overview of all learning outcomes for this semester.
+| Learning Outcome | Proof |
+|:-----------------|:-----:|
+|Web Application| [🔗]()
+|Software quality| [🔗]()
+|Agile Method| [🔗]()
+|CI/CD| [🔗]()
+|Cultural differences and ethics| [🔗]()
+|Requirements and design| [🔗]()
+|Business processes| [🔗]()
+|Professional| [🔗]()
 
 ## Special credits
 ***
