@@ -24,17 +24,17 @@
 ## Proof of Learning Outcomes
 ***
 ## Proof of Learning Outcomes
-[Click here]() for an overview of all learning outcomes for this semester.
+[Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Web Application| [🔗]()
-|Software quality| [🔗]()
-|Agile Method| [🔗]()
-|CI/CD| [🔗]()
-|Cultural differences and ethics| [🔗]()
-|Requirements and design| [🔗]()
-|Business processes| [🔗]()
-|Professional| [🔗]()
+|Web Application| [🔗]() No Link
+|Software quality| [🔗]() No Link
+|Agile Method| [🔗]() No Link
+|CI/CD| [🔗]() No Link
+|Cultural differences and ethics| [🔗]() No Link
+|Requirements and design| [🔗]() No Link
+|Business processes| [🔗]() No Link
+|Professional| [🔗]() No Link
 
 ## Special credits
 ***
