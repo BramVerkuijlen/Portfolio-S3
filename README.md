@@ -29,7 +29,7 @@
 |:-----------------|:-----:|
 |Web Application| [🔗]() No Link
 |Software quality| [🔗]() No Link
-|Agile Method| [🔗]() No Link
+|Agile Method| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Agile.md)
 |CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗]() No Link
 |Requirements and design| [🔗]() No Link
