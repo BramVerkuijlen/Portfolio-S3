@@ -32,3 +32,16 @@ Finally, I was able to complete the Game Overview task that I was unable to fini
 This sprint was productive, and I did not experience any setbacks. However, I realized that I need to work on writing out my tasks better to optimize my productivity in future sprints. This includes setting more specific goals for each task and breaking them down into smaller, manageable subtasks.
 
 Overall, I'm satisfied with the progress made during this sprint and feel confident that I am on track to deliver a high-quality project. I'm looking forward to continuing my work and refining my project in the next sprint.
+
+## Sprint 4
+***
+
+for my 4th Sprint I primarily focused on testing my front end and implementing CI/CD (Continuous Integration/Continuous Deployment). However, I unfortunately didn't have enough time to start working on my Game API as planned. The main reason for this setback was poor planning, which originated from how my backlog and Jira board were set up.
+
+One of the challenges I faced was the lack of clarity in estimating task durations and understanding the required steps for completing them. This made it difficult to prioritize and allocate appropriate time for each task. Consequently, I wasn't able to dedicate enough time to start developing the Game API.
+
+On the positive side, I did make progress with testing the front end and successfully implemented CI/CD practices. This will ultimately contribute to improved software quality and faster deployment cycles. Although the Game API couldn't be started during this sprint, the groundwork laid for testing and CI/CD will help facilitate its development in future sprints.
+
+Moving forward, it is crucial to address the issues with backlog and Jira board management. This includes improving task estimation accuracy, defining clear steps for completing tasks, and establishing a more efficient workflow. By doing so, I can ensure better planning and resource allocation in the upcoming sprints, enabling the timely initiation of the Game API development.
+
+Overall, while facing challenges in planning and task prioritization, I made progress in testing and CI/CD implementation. The lessons learned from this sprint will inform improvements for future sprints, enabling me to effectively tackle the Game API development in the next iteration.
