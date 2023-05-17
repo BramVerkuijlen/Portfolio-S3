@@ -30,7 +30,7 @@
 |Web Application| [🔗]() No Link
 |Software quality| [🔗]() No Link
 |Agile Method| [🔗]() No Link
-|CI/CD| [🔗]() No Link
+|CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗]() No Link
 |Requirements and design| [🔗]() No Link
 |Business processes| [🔗]() No Link
