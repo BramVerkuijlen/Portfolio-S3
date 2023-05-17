@@ -21,7 +21,12 @@ Please note that I've made a few minor corrections to spelling and grammar.
 ### First itteration
 ***
 
+![JiraBoard](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen1%20Board.png)
+![JiraBacklog](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen1%20Backlog.png)
+
 
 
 ### Second itteration
-**
+***
+
+![JiraBacklog](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen2%20Backlog.png)
