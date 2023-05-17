@@ -32,4 +32,4 @@ By setting up an automated workflow, I've successfully achieved Continuous Deplo
 
 The implementation of CD with a scheduled deployment brings about a consistent cadence of releases. This regularity facilitates better planning and communication of updates to my users, keeping them informed and engaged. Moreover, the automated nature of the deployment workflow significantly reduces the need for manual intervention, mitigating the risk of human errors. As a result, I have more time available to dedicate to other essential tasks.
 
-[**Example CI Workflow**](https://github.com/Phantom-works/Adviser-Front-End/actions)
+[**Example CD Workflow**](https://github.com/Phantom-works/Adviser-Front-End/actions)
