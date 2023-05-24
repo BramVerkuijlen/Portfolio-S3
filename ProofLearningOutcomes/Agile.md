@@ -29,4 +29,5 @@ Please note that I've made a few minor corrections to spelling and grammar.
 ### Second itteration
 ***
 
+![JiraBoard](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen2%20Board.png)
 ![JiraBacklog](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen2%20Backlog.png)
