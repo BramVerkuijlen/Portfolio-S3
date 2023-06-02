@@ -45,3 +45,12 @@ On the positive side, I did make progress with testing the front end and success
 Moving forward, it is crucial to address the issues with backlog and Jira board management. This includes improving task estimation accuracy, defining clear steps for completing tasks, and establishing a more efficient workflow. By doing so, I can ensure better planning and resource allocation in the upcoming sprints, enabling the timely initiation of the Game API development.
 
 Overall, while facing challenges in planning and task prioritization, I made progress in testing and CI/CD implementation. The lessons learned from this sprint will inform improvements for future sprints, enabling me to effectively tackle the Game API development in the next iteration.
+
+## Sprint 5
+***
+
+I mainly focused on developing the API for my application and connecting it to the front-end in this sprint. Good news! I successfully designed and implemented the API endpoints that are needed to retrieve games using the IGDB API. The endpoint for getting games is up and running now. However, I wasn't able to test it thoroughly yet, so that's something I'll be tackling in the next sprint.
+
+Apart from that, I also tried out a new way to organize my agile board. I broke down my user stories into smaller, more manageable tasks and even assigned story points to them. This approach helped me stay organized and have a clearer view of what needs to be done.
+
+Overall, this sprint was all about backend development, API integration, and experimenting with agile board organization. I'm happy with the progress I've made and can't wait to keep building on this foundation in the upcoming sprints.
