@@ -34,7 +34,7 @@
 |Cultural differences and ethics| [🔗]() No Link
 |Requirements and design| [🔗]() No Link
 |Business processes| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Business%20processes.md)
-|Professional| [🔗]() No Link
+|Professional| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Professional.md)
 
 ## Special credits
 ***
