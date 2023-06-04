@@ -11,11 +11,7 @@ CI/CD is a software development approach that enables teams to streamline their 
 
 <img src="https://github.com/BramVerkuijlen/Portfolio-S3/assets/95694367/c640e81c-5fcf-4f04-92fd-deff7d3e0f1b" alt="CI CD image" width="600">
 
-
-## Proof Learning outcome
-***
-
-### CI
+## CI
 ***
 I've implemented Continuous Integration (CI) in my development workflow to ensure smooth code integration and reliable software delivery. To achieve this, I utilize separate repositories and maintain a dedicated development branch. This allows me to work on new features and bug fixes without directly impacting the main branch.
 
@@ -25,7 +21,7 @@ In addition, I've configured a GitHub action that automates the build and test p
 
 [**Example CI Workflow**](https://github.com/Phantom-works/Adviser-Front-End/actions)
 
-### CD
+## CD
 ***
 
 By setting up an automated workflow, I've successfully achieved Continuous Deployment (CD) in my project. This workflow specifically focuses on deploying the main branch of my code as a Docker image to Docker Hub. What sets it apart is the scheduling aspect: the CD workflow is configured to run like clockwork every Tuesday at 2am, only if there have been changes to the main branch in the last 7 days. This regular and predictable release schedule offers numerous benefits.
