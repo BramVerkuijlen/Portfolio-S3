@@ -33,7 +33,7 @@
 |CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗]() No Link
 |Requirements and design| [🔗]() No Link
-|Business processes| [🔗]() No Link
+|Business processes| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Business%20processes.md)
 |Professional| [🔗]() No Link
 
 ## Special credits
