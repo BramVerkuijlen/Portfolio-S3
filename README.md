@@ -27,7 +27,7 @@
 [Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Web Application| [🔗]() No Link
+|Web Application| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Web%20application.md)
 |Software quality| [🔗]() No Link
 |Agile Method| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Agile.md)
 |CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
