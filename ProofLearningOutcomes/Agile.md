@@ -49,6 +49,10 @@ I also utilized a backlog to prioritize and manage user stories for future sprin
 
 In my project, I successfully incorporated Continuous Integration and Continuous Delivery (CI/CD) practices. CI/CD allowed me to achieve frequent integration of code changes and automated testing, ensuring a reliable and efficient delivery process. By implementing CI/CD pipelines, I could quickly and reliably deploy new features and updates to production environments. These practices enabled faster feedback, reduced the risk of integration issues, and supported the continuous delivery of valuable software increments. For more detailed information on CI/CD, please refer to the proof on CI/CD document provided separately [here](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md).
 
+## Group project
+
+To see how we implemented agile methodologies in our group project, please visit [this link](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Jira%20board%20sprint%204%20group%20project.png).
+
 
 
 
