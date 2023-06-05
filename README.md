@@ -23,7 +23,6 @@
 
 ## Proof of Learning Outcomes
 ***
-## Proof of Learning Outcomes
 [Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
