@@ -51,7 +51,7 @@ In my project, I successfully incorporated Continuous Integration and Continuous
 
 ## Group project
 
-To see how we implemented agile methodologies in our group project, please visit [this link](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Jira%20board%20sprint%204%20group%20project.png).
+To see how we implemented agile methodologies in our group project, please visit [this link](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Jira%20board%20sprint%204%20group%20project.png](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Jira%20board%20sprint%204%20group%20project.png).
 
 
 
