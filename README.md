@@ -1,9 +1,15 @@
 # Portfolio
 ***
-
-![GIF Broke :(](https://thumbs.gfycat.com/SevereEvilDeer-max-1mb.gif)
+<img src="https://thumbs.gfycat.com/SevereEvilDeer-max-1mb.gif" alt="GIF Broke :(" width="50%" height="50%" />
 
 *by Bram Verkuijlen*
+
+# Table of Contents
+- [Intro](#intro)
+- [Projects](#projects)
+- [Research documents](#research-documents)
+- [Proof of Learning Outcomes](#proof-of-learning-outcomes)
+- [Special Credits](#special-credits)
 
 ## Intro
 ***
