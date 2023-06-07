@@ -33,7 +33,7 @@
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
 |Web Application| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Web%20application.md)
-|Software quality| [🔗]() No Link
+|Software quality| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/SoftwareQuality.md)
 |Agile Method| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Agile.md)
 |CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗]() No Link
