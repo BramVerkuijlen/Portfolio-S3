@@ -23,7 +23,7 @@ During my individual project, I successfully developed a full stack web applicat
 
 For the back end of my application, I opted to use JavaScript and employed a wrapper to interact with the IGDB API. This allowed me to access and integrate a wide range of game-related information seamlessly. By utilizing JavaScript on the server side, I ensured compatibility and smooth communication between the front-end components and the API.
 
-Although I did not utilize an ORM in my individual project, it was not necessary for the specific requirements and functionality of my application.
+Although I inherently didn't use an ORM because it wasn't necessary for my project's specific requirements and functionality, I did make an example project for storing a Twitch acess key that you can find [here](https://github.com/Phantom-works/Adviser-Example-TwitchKeyAPI).
 
 As part of my individual project, I conducted research on implementing an API gateway to enhance the application's architecture. However, due to time constraints, I could not fully implement the API gateway within the project scope. Nevertheless, the research provided valuable insights into its potential advantages for future projects, such as improved security and scalability. 
 
