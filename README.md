@@ -36,7 +36,7 @@
 |Software quality| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/SoftwareQuality.md)
 |Agile Method| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Agile.md)
 |CI/CD| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md)
-|Cultural differences and ethics| [🔗]() No Link
+|Cultural differences and ethics| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Cultural%20differences%20and%20ethics.md)
 |Requirements and design| [🔗]() No Link
 |Business processes| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Business%20processes.md)
 |Professional| [🔗](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Professional.md)
