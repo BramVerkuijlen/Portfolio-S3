@@ -9,6 +9,19 @@
 
 *AI art made by [hotpot.ai](https://hotpot.ai/art-generator?s=dalle-mini)*
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [What is AI](#what-is-ai)
+3. [The Importance of Protecting Software: Safeguarding Valuable Data and Preventing Cyber Threats](#the-importance-of-protecting-software-safeguarding-valuable-data-and-preventing-cyber-threats)
+4. [Limitations of Traditional Software Security](#limitations-of-traditional-software-security)
+5. [The Potential of AI](#the-potential-of-ai)
+6. [Negatives of AI in Cybersecurity](#negatives-of-ai-in-cybersecurity)
+7. [Real-Life Applications](#real-life-applications)
+8. [Conclusion](#conclusion)
+9. [Sources](#sources)
+10. [Acknowledgements](#Acknowledgements)
+
 ## Introduction
 ***
 In today's interconnected world, the criticality of robust software security cannot be overstated.
@@ -68,7 +81,7 @@ In addition, constant monitoring is a vital aspect of cybersecurity. Hackers are
 It is important to recognize that cybersecurity is an ongoing process that demands constant attention and maintenance. It is not a one-time installation that can be overlooked. With evolving threats and vulnerabilities, regular monitoring, updating, and adaptation are necessary to ensure effective protection and mitigate potential risks.[[6]](https://www.javatpoint.com/advantages-and-disadvantages-of-cyber-security)
 
 ## The Potential of AI
-
+***
 AI in cybersecurity brings several benefits that significantly improve the effectiveness of security measures. Firstly, AI systems leverage sophisticated algorithms to detect malware and perform pattern recognition, allowing them to identify even the smallest behavioral indicators of malware or ransomware attacks before they infiltrate the system. This proactive approach helps prevent potential threats from causing harm.
 
 The capability of AI to handle large amounts of data is another advantage in cybersecurity. Networks generate vast amounts of traffic, making it challenging for human cybersecurity personnel to manually review all activity. AI technology automates the scanning and identification of disguised threats, streamlining the detection process and enhancing overall protection.
@@ -79,7 +92,22 @@ Furthermore, AI contributes to better overall security by detecting various type
 
 By eliminating duplicative processes, AI reduces the risk of human error and complacency. It handles monotonous and repetitive security tasks, ensuring consistent implementation of network security best practices. This not only improves efficiency but also minimizes the likelihood of oversights or mistakes. [[7]](https://www.engati.com/blog/ai-for-cybersecurity) [[8]](https://www.computer.org/publications/tech-news/trends/the-use-of-artificial-intelligence-in-cybersecurity)
 
+##  Negatives of AI in Cybersecurity
+***
+One significant challenge lies in the acquisition of diverse and reliable data sets. Training AI systems in cybersecurity requires extensive collections of malware codes, non-malicious codes, and anomalies. However, obtaining such data sets can be time-intensive and costly, making it difficult for many organizations to afford the necessary investments. Insufficient or inaccurate data can lead to incorrect results and false positives, compromising the effectiveness of AI-driven security measures.
 
+Moreover, the use of AI in cybersecurity extends beyond defenders, presenting a significant risk in the form of adversarial AI. Cybercriminals can exploit AI technology to develop and refine their attack techniques. Adversarial AI manipulates machine learning models, leading them to misinterpret inputs and behave in ways favorable to the attacker. While AI has the potential to reduce false positives in security systems, there remains a possibility of errors arising from incorrect data labeling or overfitting during training. Consequently, organizations must diligently evaluate and validate the performance of AI systems to minimize the occurrence of false positives and ensure the uninterrupted functioning of their security measures. To proactively address these risks, effective monitoring and feedback mechanisms should be implemented, enabling the prompt detection and rectification of any potential issues. This comprehensive approach is essential for mitigating the detrimental consequences that false positives in AI-driven security systems can inflict on businesses, such as operational disruptions and productivity losses. By continuously refining and enhancing AI technologies, defenders can strive to stay ahead of adversaries and maintain robust cybersecurity defenses.
+
+Another concern is the potential for AI-based attacks to exploit vulnerabilities in AI systems themselves. As AI becomes more sophisticated, cybercriminals may utilize AI techniques to analyze malware and develop advanced attack strategies. This creates a cat-and-mouse game between cybersecurity professionals and adversaries, with each side leveraging AI to their advantage. [[8]](https://www.computer.org/publications/tech-news/trends/the-use-of-artificial-intelligence-in-cybersecurity) [[9]](https://www.orientsoftware.com/blog/ai-in-cybersecurity/)
+
+
+## Real-Life Applications
+***
+Darktrace is a prominent example of how AI is revolutionizing cybersecurity. Their Enterprise Immune System technology employs machine learning algorithms to detect and respond to cyber threats in real-time. By continuously learning the normal behavior of a network, Darktrace's AI system can identify anomalies and potential security breaches that may go unnoticed by traditional security measures. This AI-powered solution has been successfully implemented in various industries, including finance, healthcare, and government, helping organizations proactively defend against evolving threats. Darktrace's AI capabilities have proven effective in identifying and mitigating advanced persistent threats, ransomware attacks, and insider threats, thereby enhancing the overall security posture of organizations in an increasingly complex threat landscape.[[10]](https://darktrace.com/)
+
+## Conclusion
+
+Machine learning and artificial intelligence (AI) have emerged as powerful tools for bolstering software security, enabling real-time threat detection, and enhancing the protection of valuable data and assets. While AI brings numerous advantages, it is important to acknowledge that it also presents certain challenges and limitations. However, despite the current limitations, While it may be too soon to fully implement AI in cybersecurity, given the current advantages and challenges, it is evident that AI has the potential to become an indispensable ally in the future of cybersecurity. With further advancements and refinement, AI can revolutionize the way we defend against cyber threats, ensuring a safer digital environment for individuals and organizations alike.
 
 ## Sources
 ***
@@ -97,5 +125,12 @@ By eliminating duplicative processes, AI reduces the risk of human error and com
 
 [7] Source: "AI in Cybersecurity: Enhancing Protection and Managing Threats." Engati, https://www.engati.com/blog/ai-for-cybersecurity
 
-[8] Source: "The Use of Artificial Intelligence in Cybersecurity: A Review." , Gaurav Belani  https://www.computer.org/publications/tech-news/trends/the-use-of-artificial-intelligence-in-cybersecurity
+[8] Source: "The Use of Artificial Intelligence in Cybersecurity: A Review." Gaurav Belani,  https://www.computer.org/publications/tech-news/trends/the-use-of-artificial-intelligence-in-cybersecurity
 
+[9] Source: "A Glimpse of AI in Cybersecurity: Its Applications, Benefits & Also Drawbacks." Trung Tran, https://www.orientsoftware.com/blog/ai-in-cybersecurity/
+
+[10] Source: Darktrace, https://darktrace.com/
+
+## Acknowledgements
+
+This project was made possible with the assistance of ChatGPT, an AI language model developed by OpenAI.
