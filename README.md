@@ -13,7 +13,7 @@
 
 ## Intro
 ***
-
+Welcome to my portfolio! My name is Bram Verkuijlen, and I am delighted to present my individual project for the 3rd semester of ICT at Fontys University. Throughout this semester, I have dedicated my efforts to creating a web application called Game Adviser. This innovative application aims to simplify the decision-making process when it comes to choosing which game to play. By leveraging user input on their current interests, Game Adviser provides tailored recommendations, ensuring that the question "But what game?" won't have to be asked ever again.
 
 ## Projects
 ***
