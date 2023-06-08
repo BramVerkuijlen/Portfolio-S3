@@ -26,6 +26,7 @@
 - [Game API](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Game%20API.md)
 - [API Gateway](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/API%20Gateway.md)
 - [Why Kong](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Why%20Kong.md)
+- [Enhancing Software Security with Machine Learning and Artificial Intelligence](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/SecurityMachineLearning.md#real-life-applications)
 
 ## Proof of Learning Outcomes
 ***
