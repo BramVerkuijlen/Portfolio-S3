@@ -44,8 +44,8 @@ Welcome to my portfolio! My name is Bram Verkuijlen, and I am delighted to prese
 
 ## Special credits
 ***
-- [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3)
-- This project utilized the ChatGPT language model developed by [OpenAI](https://openai.com/)
+- This Project took inspiration from [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3).
+- This project utilized the ChatGPT language model developed by [OpenAI](https://openai.com/).
 
 
 
