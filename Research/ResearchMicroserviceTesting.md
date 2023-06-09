@@ -1,4 +1,4 @@
-# Research Question: How to effectively test a microservices and what tools should I use?
+# How can I effectively test my microservice and what tools should I use?
 
 **By: Bram Verkuijlen**
 
@@ -15,4 +15,10 @@
 As the demand for efficient and reliable microservices grows in the software development landscape, thorough testing becomes essential.
 But how can we effectively test a microservice and select the right tools? 
 This research aims to explore the most effective strategies and tools for testing my microservice.
+
+## What does my microservice do?
+
+My microservice is designed to provide a convenient and user-friendly way to search for games based on specific categories. By using the IGDB (Internet Game Database) API, you can request games belonging to various genres, platforms, or themes. The microservice acts as an intermediary, interacting with the IGDB API to retrieve relevant game data. Additionally the microservice retrieves the necessary access key and stores it in a JSON format. This allows for seamless and efficient communication between the microservice and the IGDB API.
+
+## What are the different ways to test a microservice?
 
