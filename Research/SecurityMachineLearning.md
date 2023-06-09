@@ -10,7 +10,7 @@
 *AI art made by [hotpot.ai](https://hotpot.ai/art-generator?s=dalle-mini)*
 
 ## Table of Contents
-
+***
 1. [Introduction](#introduction)
 2. [What is AI](#what-is-ai)
 3. [The Importance of Protecting Software: Safeguarding Valuable Data and Preventing Cyber Threats](#the-importance-of-protecting-software-safeguarding-valuable-data-and-preventing-cyber-threats)
@@ -30,7 +30,7 @@ In response, the exploration of advanced technologies such as machine learning a
 This research project sets out to answer the question **"How can we use machine learning and artificial intelligence to make software more secure?"** .
 
 ## What is AI
-
+***
 An artificial intelligence (AI) system refers to a technology that possesses the capability to perform tasks that traditionally require human cognitive abilities. 
 These tasks encompass a wide range of activities such as speech interpretation, game playing, and pattern recognition. AI systems acquire their proficiency through the analysis of vast quantities of data, seeking out patterns to emulate in their own decision-making processes.
 In many instances, human supervision is involved in the AI's learning process, reinforcing favorable choices and discouraging unfavorable ones. However, there are AI systems designed to learn independently, functioning without the need for direct guidance.
