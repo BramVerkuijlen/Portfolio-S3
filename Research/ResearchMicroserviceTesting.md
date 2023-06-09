@@ -56,7 +56,7 @@ the readabillity of a test is also very importand for debugging, microsoft recom
 
 In order to keep unit tests focused on testing a single unit of code, developers often use mocking or stubbing techniques. Mocking involves creating objects that simulate the behavior of real objects but are specifically designed for testing purposes. These mock objects allow developers to isolate the code under test and control the behavior of external dependencies.
 
-By using mocks, developers can replace complex or slow dependencies, such as databases, web services, or external APIs (in my case), with simplified versions that provide predetermined responses. This way, unit tests can execute quickly and in a controlled environment, without relying on external resources.
+By using mocks, developers can replace complex or slow dependencies, such as databases, web services, or external APIs (in my case), with simplified versions that provide predetermined responses. This way, unit tests can execute quickly and in a controlled environment, without relying on external resources.[[5]](https://jestjs.io/)
 
 ## Sources
 
@@ -67,3 +67,5 @@ By using mocks, developers can replace complex or slow dependencies, such as dat
 [3] Source: "Combine API and UI Testing For Confidence At Every Layer Of Your Application" Smartbear , https://smartbear.com/learn/automated-testing/what-is-end-to-end-testing/
 
 [4] Source: "Unit testing best practices with .NET Core and .NET Standard" Microsoft , https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
+
+[5] Source: "Jests official docs" Jest , https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
