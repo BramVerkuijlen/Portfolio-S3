@@ -38,7 +38,7 @@ This test ensured that user input was processed accurately and reflected appropr
 
 I implemented unit testing for my back-end application using Jest. I conducted tests for the twitchKeyVerifier module, mocking functions like fn (for file operations), Axios (for API calls), and Date.now (to remove time dependency). These tests ensured accurate and reliable results, catching bugs and regressions early in development. Unit testing plays a vital role in maintaining software quality, providing a safety net for code changes and increasing the overall reliability of the back-end application.
 
-![image](https://github.com/BramVerkuijlen/Portfolio-S3/assets/95694367/689364ed-c0ab-46e8-8b5e-99a6f8c8a1f8)
+![Unit testing](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Unit%20test%20TwitchAccess%20token.png)
 
 *This test looks if the SetAccessToken function sets a new access token, mocking the current token to be expired.*
 
