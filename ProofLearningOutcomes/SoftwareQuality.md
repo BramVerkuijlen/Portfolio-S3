@@ -35,7 +35,7 @@ This test ensured that user input was processed accurately and reflected appropr
 *This functional test fills in a input field and presses the add button, after that it looks if a "category bubble" appeared with the correct category*
 
 ## Unit testing
-
+***
 I implemented unit testing for my back-end application using Jest. I conducted tests for the twitchKeyVerifier module, mocking functions like fn (for file operations), Axios (for API calls), and Date.now (to remove time dependency). These tests ensured accurate and reliable results, catching bugs and regressions early in development. Unit testing plays a vital role in maintaining software quality, providing a safety net for code changes and increasing the overall reliability of the back-end application.
 
 ![Unit testing](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Unit%20test%20TwitchAccess%20token.png)
@@ -44,6 +44,8 @@ I implemented unit testing for my back-end application using Jest. I conducted t
 
 ## Integration Testing (Work in Progress)
 ***
-While I have not yet completed the implementation of integration testing in the back-end, I acknowledge its significance in ensuring the seamless interaction between different system components. As an ongoing effort, I plan to develop and execute integration tests to verify the functionality and reliability of the back-end components.
+While I have not yet completed the implementation of integration testing in the back-end, I am actively working on it using Jest and Supertest. However, I have encountered some difficulties related to mocking environmental variables used for communication with the IGDB API.
 
-By employing multiple branches in Git, implementing CI with GitHub Actions, and conducting UI and functional testing, I have incorporated robust software quality practices into my project. These practices contribute to maintaining a high level of confidence in the stability and performance of the software, ultimately delivering a reliable and satisfactory user experience.
+In my unit tests, I successfully mock the IGDB API using similar techniques. However, during the start of the program, I set the access key as an environmental variable to ensure that my wrapper functions correctly. This presents a challenge when it comes to integration testing because I need to find a way to mock or provide these environmental variables in the testing environment.
+
+Despite the current obstacles, I am committed to implementing comprehensive integration testing to ensure the smooth and reliable functioning of the entire system. 
