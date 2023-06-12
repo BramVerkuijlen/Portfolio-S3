@@ -34,6 +34,14 @@ This test ensured that user input was processed accurately and reflected appropr
 
 *This functional test fills in a input field and presses the add button, after that it looks if a "category bubble" appeared with the correct category*
 
+## Unit testing
+
+I implemented unit testing for my back-end application using Jest. I conducted tests for the twitchKeyVerifier module, mocking functions like fn (for file operations), Axios (for API calls), and Date.now (to remove time dependency). These tests ensured accurate and reliable results, catching bugs and regressions early in development. Unit testing plays a vital role in maintaining software quality, providing a safety net for code changes and increasing the overall reliability of the back-end application.
+
+![image](https://github.com/BramVerkuijlen/Portfolio-S3/assets/95694367/689364ed-c0ab-46e8-8b5e-99a6f8c8a1f8)
+
+*This test looks if the SetAccessToken function sets a new access token, mocking the current token to be expired.*
+
 ## Integration Testing (Work in Progress)
 ***
 While I have not yet completed the implementation of integration testing in the back-end, I acknowledge its significance in ensuring the seamless interaction between different system components. As an ongoing effort, I plan to develop and execute integration tests to verify the functionality and reliability of the back-end components.
