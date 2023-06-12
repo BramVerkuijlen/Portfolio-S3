@@ -26,7 +26,9 @@ Welcome to my portfolio! My name is Bram Verkuijlen, and I am delighted to prese
 - [Game API](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Game%20API.md)
 - [API Gateway](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/API%20Gateway.md)
 - [Why Kong](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/Why%20Kong.md)
+- [How can I effectively test my Api and what tools should I use?](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/ResearchAPITesting.md)
 - [Enhancing Software Security with Machine Learning and Artificial Intelligence](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/Research/SecurityMachineLearning.md#real-life-applications)
+
 
 ## Proof of Learning Outcomes
 ***
