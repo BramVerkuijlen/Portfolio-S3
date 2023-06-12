@@ -2,12 +2,10 @@
 ***
 *You act in a professional manner during software development and learning.*
 
-During both the group project and individual project, I consistently acted in a professional manner. I proactively sought opportunities to enhance my knowledge and skills in software development, keeping myself up to date with the latest industry trends and technologies. I diligently followed best practices, paying close attention to code readability, maintainability, and scalability. I understood the importance of writing clean and efficient code that is easy to understand and maintain over time.
+## Individual project
 
-Meeting project deadlines and managing time effectively were top priorities for me. I carefully planned and organized my work, setting realistic goals and priorities to ensure timely completion of tasks. In the face of challenges, I communicated proactively with my team members to address them and find appropriate solutions. I understood the value of open and honest communication in achieving project success.
+Throughout my individual project, I demonstrated a strong sense of professionalism and dedication. I conducted extensive research, seeking to establish a solid foundation and deepen my understanding of the subject matter. Valuing diverse perspectives, I actively sought feedback from both peers and my teacher, incorporating their insights to enhance my work. I made a concerted effort to implement best practices, leveraging the knowledge and skills I had acquired. Rigorous testing ensured the reliability and functionality of my project, while documenting my progress on GitHub showcased my commitment and proficiency.
 
-When faced with problem-solving tasks, I approached them with a systematic and analytical mindset. I carefully analyzed the problem, identified the underlying issues, and sought effective solutions. I actively sought feedback from team members and incorporated it into my work to continually improve the quality of the project.
+## Group project
 
-Overall, I maintained a high level of professionalism throughout both the group and individual projects, adhering to industry standards and demonstrating a strong commitment to delivering quality software solutions.
-
-
+In the group project, professionalism remained a guiding principle. We prioritized clear and effective communication, fostering understanding and alignment among team members. Actively engaging with stakeholders, we valued their input and worked collaboratively to meet their expectations. Utilizing a Jira board, we organized tasks and user stories, streamlining our workflow and promoting transparency and accountability. Our collective professionalism and effective use of collaboration tools contributed to the successful execution of the project, delivering a cohesive and satisfying outcome.
