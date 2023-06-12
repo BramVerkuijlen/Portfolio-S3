@@ -50,11 +50,11 @@ Integration testing, also known as integration and testing (I&T), is a crucial p
 End-to-end testing is a vital component of the software development lifecycle that aims to validate the functionality and performance of an application in real-life scenarios. It involves testing the entire application from start to finish, simulating user interactions and replicating live settings to ensure that all sub-systems, including UI and API layers, external databases, networks, and third-party integrations, work harmoniously. The complexity of modern software applications necessitates thorough end-to-end testing to identify any failures or instabilities that could impact the overall product. [[4]](https://smartbear.com/learn/automated-testing/what-is-end-to-end-testing/)
 
 ## Mocking
-
+***
 When it comes to testing an API, there are different methodologies available, including unit testing, integration testing, and end-to-end testing. These testing approaches ensure the reliability and functionality of the API. However, during testing, it is often necessary to create simulated objects that mimic real objects to maintain control over the code's behavior and prevent unintended consequences. This process is known as mocking. By creating mock objects, developers can imitate specific behaviors or simulate interactions without affecting the actual system or data. Mocking allows for more precise and controlled testing, verifying function calls, the number of times they occur, and the arguments passed to them. It not only prevents real-world changes during testing but also provides deeper insights into the inner workings of the code, leading to more effective and informed testing practices.[[5]](https://realpython.com/lessons/what-mocking/)
 
 ## Tools
-
+***
 When it comes to effectively testing an API, using the right tools can greatly enhance the testing process and provide valuable insights. For testing APIs written in JavaScript, there are several tools that can be beneficial:
 
    **Jest**
@@ -80,11 +80,11 @@ While primarily known for end-to-end testing of web applications, Cypress can al
 These tools provide a range of features and capabilities to effectively test JavaScript APIs. Depending on your specific requirements and preferences, you can choose the tool that best suits your needs. It's important to explore and familiarize yourself with the documentation and examples provided by these tools to make the most of their capabilities and leverage their potential for thorough and efficient API testing.
 
 ## Conclusion
-
+***
 Effectively testing an API is crucial for reliability and functionality. Follow good testing practices, such as the Arrange-Act-Assert pattern, readable tests, and speed, isolation, repeatability, and self-checking. Employ unit testing for individual functions, integration testing for module interactions, and end-to-end testing for overall application performance. Use tools like Jest for JavaScript unit testing, Supertest for API integration testing, Postman for manual/automated API testing, and Cypress for end-to-end testing. Combining these methodologies and tools ensures thorough testing, reliable APIs, and adherence to requirements.
 
 ## Sources
-
+***
 
 [1] Source: "Unit testing best practices with .NET Core and .NET Standard" Microsoft , https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
 
@@ -103,3 +103,7 @@ Effectively testing an API is crucial for reliability and functionality. Follow 
 [8] Source: "Postman - API Development Environment" Postman, https://www.postman.com/
 
 [9] Source: "Cypress - JavaScript End-to-End Testing Framework" Cypress, https://www.cypress.io/
+
+## Acknowledgements
+***
+This project was made possible with the assistance of ChatGPT, an AI language model developed by OpenAI.
