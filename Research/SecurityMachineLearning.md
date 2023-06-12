@@ -132,5 +132,5 @@ Machine learning and artificial intelligence (AI) have emerged as powerful tools
 [10] Source: Darktrace, https://darktrace.com/
 
 ## Acknowledgements
-
+***
 This project was made possible with the assistance of ChatGPT, an AI language model developed by OpenAI.
