@@ -8,4 +8,5 @@
 *Business chart of my individual project*\
 
 ## Group project
+***
 Find our group project [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md)
