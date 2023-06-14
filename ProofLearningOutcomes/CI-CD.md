@@ -19,7 +19,12 @@ To further ensure the correctness of my code, I've incorporated automatic tests 
 
 In addition, I've configured a GitHub action that automates the build and test processes for both the development branch and the main branch. This ensures that my code is thoroughly tested and functional, providing an added layer of confidence before merging it into the main branch.
 
+While implementing Continuous Integration (CI) in my development workflow, I encountered some challenges specifically related to my API. When executing the CI action to run the build process, GitHub faced difficulty recognizing the existence of my API build. As a result, the API build process kept running indefinitely without completion.
+I have been investigating the cause of this issue and exploring potential solutions to ensure the seamless integration of my API build within the CI pipeline. 
+
 [**Example CI Workflow**](https://github.com/Phantom-works/Adviser-Front-End/actions)
+
+
 
 ## CD
 ***
