@@ -44,8 +44,8 @@ I implemented unit testing for my back-end application using Jest. I conducted t
 
 ## Integration Testing (Work in Progress)
 ***
-While I have not yet completed the implementation of integration testing in the back-end, I am actively working on it using Jest and Supertest. However, I have encountered some difficulties related to mocking environmental variables used for communication with the IGDB API.
+I have made significant progress in implementing integration testing in the back-end. After overcoming several obstacles, I have successfully implemented at least one integration test. This particular test focuses on checking if the check for genres in the response body is functioning correctly and returns a 400 status code, if the genres field isn't provided.
 
-In my unit tests, I successfully mock the IGDB API using similar techniques. However, during the start of the program, I set the access key as an environmental variable to ensure that my wrapper functions correctly. This presents a challenge when it comes to integration testing because I need to find a way to mock or provide these environmental variables in the testing environment.
+![test status code 400](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/test%20intergration%20status%20400.png)
 
-Despite the current obstacles, I am committed to implementing comprehensive integration testing to ensure the smooth and reliable functioning of the entire system. 
+However, I did encounter some difficulties when it came to mocking the calls to the IGDB API. Since the start of the program relies on environmental variables to set the access key for communication with the IGDB API, mocking or providing these variables in the testing environment posed a challenge.
