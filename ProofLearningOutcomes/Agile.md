@@ -45,11 +45,25 @@ I also utilized a backlog to prioritize and manage user stories for future sprin
 ![Jira Backlog - Gen2](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/Jira%20Gen2%20Backlog.png)
 *Jira Backlog - Gen2*
 
+## Outsourcing
+***
+
+For my project, I sought feedback from [Artjoms](https://github.com/Otrigos) by outsourcing a user story to enhance my workflow.
+
+![Select amount of games story](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/Images/number%20of%20games%20story.png)
+*User story Outsourcing*
+
+Feedback from Artjoms:
+
+"The user story was of modest size, making it appropriate for outsourcing. It was precisely defined and fairly understandable. While there was a minor omission in the project documentation regarding the .env file, a short conversation with Bram resolved the issue. Initiating and managing the project was a simple procedure. The sole minor difficulty faced was configuring the data request, but Bram offered guidance, and it was set up successfully in about two minutes. The code was tidy, well-organized, and user-friendly."
+
 ## CI CD
+***
 
 In my project, I successfully incorporated Continuous Integration and Continuous Delivery (CI/CD) practices. CI/CD allowed me to achieve frequent integration of code changes and automated testing, ensuring a reliable and efficient delivery process. By implementing CI/CD pipelines, I could quickly and reliably deploy new features and updates to production environments. These practices enabled faster feedback, reduced the risk of integration issues, and supported the continuous delivery of valuable software increments. For more detailed information on CI/CD, please refer to the proof on CI/CD document provided separately [here](https://github.com/BramVerkuijlen/Portfolio-S3/blob/main/ProofLearningOutcomes/CI-CD.md).
 
 ## Group project
+***
 
 To see how we implemented agile methodologies in our group project, please visit [this link](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Agile%20Method.md).
 
